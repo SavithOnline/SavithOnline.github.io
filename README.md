@@ -1,1 +1,0 @@
-This Repository is created to host my Blog. Ability Explain my Innovations step by step so other people can follow those guide to reproduce the outcome by themselves is the Reason to Create a this blog.
