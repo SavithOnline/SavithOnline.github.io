@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Savith&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://SavithOnline.github.io",
+    "feed_url": "https://SavithOnline.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rajinda Savith Dasanayaka"
+    },
+    "items": [
+    ]
+}
